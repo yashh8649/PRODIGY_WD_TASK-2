@@ -40,3 +40,33 @@ button:hover {
   margin-top: 20px;
 }
 
+#start:hover {
+  background-color: #ffffff;
+  color: #000;
+  transform: scale(1.2);
+  transition: all 0.3s ease;
+  border-radius: 10px;
+  
+}
+
+#pause:hover{
+  background-color: #ffffff;
+  color: #000;
+  transform: scale(1.2);
+  transition: all 0.3s ease;
+  border-radius: 10px;
+}
+#reset:hover {
+  background-color: #ffffff;
+  color: #000;
+  transform: scale(1.2);
+  transition: all 0.3s ease;
+  border-radius: 10px;
+}
+#lap:hover {
+  background-color: #ffffff;
+  color: #000;
+  transform: scale(1.2);
+  transition: all 0.3s ease;
+  border-radius: 10px;
+}
